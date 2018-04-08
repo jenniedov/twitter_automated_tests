@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af05b8e6-2964-4958-bf17-4b91c47c27bb" name="Default" comment="" />
+    <list default="true" id="af05b8e6-2964-4958-bf17-4b91c47c27bb" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,11 +65,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="basic_steps.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="basic_steps.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/steps/basic_steps.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="77">
               <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -115,7 +127,6 @@
         <option value="$PROJECT_DIR$/webdriver.py" />
         <option value="$PROJECT_DIR$/webdrivermanage.py" />
         <option value="$PROJECT_DIR$/page_objects/signuppage.py" />
-        <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/page_objects/UserRegion.py" />
         <option value="$PROJECT_DIR$/page_objects/userregion.py" />
         <option value="$PROJECT_DIR$/page_objects/BaseLoggedInPage.py" />
@@ -135,10 +146,11 @@
         <option value="$PROJECT_DIR$/features/basic_features.feature" />
         <option value="$PROJECT_DIR$/page_objects/profile_page.py" />
         <option value="$PROJECT_DIR$/features/steps/basic_steps.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-11" />
     <option name="y" value="-11" />
     <option name="width" value="1235" />
@@ -261,7 +273,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.165625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -417,13 +429,6 @@
     <entry file="file://C:/Program Files (x86)/Microsoft Visual Studio/Shared/Python36_64/Lib/site-packages/pypom/region.py" />
     <entry file="file://$PROJECT_DIR$/page_objects/userregion.py" />
     <entry file="file://$PROJECT_DIR$/page_objects/baseloggedinpage.py" />
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/page_objects/basepage.py" />
     <entry file="file://$PROJECT_DIR$/behave.ini" />
     <entry file="file://$PROJECT_DIR$/features/steps/login_steps.py" />
@@ -500,6 +505,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="77">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
